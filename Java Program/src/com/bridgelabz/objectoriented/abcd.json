@@ -1,0 +1,17 @@
+[ {
+  "zip" : "789456",
+  "firstName" : "vishal",
+  "lastName" : "dubey",
+  "address" : "govandi",
+  "phoneNumber" : "789456123",
+  "city" : "lucknow",
+  "state" : "up"
+}, {
+  "zip" : "1364",
+  "firstName" : "swetalina",
+  "lastName" : "nayak",
+  "address" : "drfghnm",
+  "phoneNumber" : "783169450",
+  "city" : "govandi",
+  "state" : "maharastra"
+} ]
