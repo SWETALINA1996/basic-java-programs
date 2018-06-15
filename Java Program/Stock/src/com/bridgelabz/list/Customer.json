@@ -1,0 +1,16 @@
+[ {
+  "customerName" : "SWETA",
+  "mobileNumber" : 9110697579,
+  "amount" : 21000,
+  "numberOfShares" : 7
+}, {
+  "customerName" : "bIJAYAlAKSHMI",
+  "mobileNumber" : 7377145005,
+  "amount" : 770000,
+  "numberOfShares" : 5
+}, {
+  "customerName" : "SUHAIL",
+  "mobileNumber" : 789632541,
+  "amount" : 50000,
+  "numberOfShares" : 20
+} ]

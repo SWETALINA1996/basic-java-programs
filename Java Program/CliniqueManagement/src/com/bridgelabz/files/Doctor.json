@@ -1,0 +1,37 @@
+[ {
+  "doctorName" : "Shasikala",
+  "specialization" : "Brain",
+  "doctorId" : 149,
+  "availability" : "AM",
+  "countOfPatients" : null
+}, {
+  "doctorName" : "BIJAYALAKSHMI",
+  "specialization" : "HEART",
+  "doctorId" : 207,
+  "availability" : "PM",
+  "countOfPatients" : null
+}, {
+  "doctorName" : "YUGANDHARA",
+  "specialization" : "NEUROLOGY",
+  "doctorId" : 657,
+  "availability" : "BOTH",
+  "countOfPatients" : null
+}, {
+  "doctorName" : "PRATIK",
+  "specialization" : "NEUROLOGY",
+  "doctorId" : 742,
+  "availability" : "PM",
+  "countOfPatients" : null
+}, {
+  "doctorName" : "SIMRAN",
+  "specialization" : "BRAIN",
+  "doctorId" : 340,
+  "availability" : "AM",
+  "countOfPatients" : null
+}, {
+  "doctorName" : "VISHAL",
+  "specialization" : "HEART",
+  "doctorId" : 161,
+  "availability" : "BOTH",
+  "countOfPatients" : null
+} ]

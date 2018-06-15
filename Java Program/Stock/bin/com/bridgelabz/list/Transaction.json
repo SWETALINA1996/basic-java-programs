@@ -1,0 +1,26 @@
+[ {
+  "customerName" : "SWETA",
+  "companyName" : "RELIANCE",
+  "timeStamp" : "15/06/2018 12:35:43",
+  "numberOfShares" : 5
+}, {
+  "customerName" : "SWETA",
+  "companyName" : "PATANJALI",
+  "timeStamp" : "15/06/2018 12:39:07",
+  "numberOfShares" : 2
+}, {
+  "customerName" : "bIJAYAlAKSHMI",
+  "companyName" : "WIPRO",
+  "timeStamp" : "15/06/2018 12:40:32",
+  "numberOfShares" : 5
+}, {
+  "customerName" : "SUHAIL",
+  "companyName" : "TATA",
+  "timeStamp" : "15/06/2018 16:20:46",
+  "numberOfShares" : 10
+}, {
+  "customerName" : "SUHAIL",
+  "companyName" : "RELIANCE",
+  "timeStamp" : "15/06/2018 16:22:07",
+  "numberOfShares" : 10
+} ]

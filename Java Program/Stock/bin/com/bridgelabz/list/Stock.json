@@ -1,0 +1,21 @@
+[ {
+  "companyName" : "RELIANCE",
+  "sharePrice" : 5000,
+  "numberOfShares" : 5
+}, {
+  "companyName" : "PATANJALI",
+  "sharePrice" : 2000,
+  "numberOfShares" : 13
+}, {
+  "companyName" : "BRIDGELABZ",
+  "sharePrice" : 80000,
+  "numberOfShares" : 20
+}, {
+  "companyName" : "WIPRO",
+  "sharePrice" : 6000,
+  "numberOfShares" : 0
+}, {
+  "companyName" : "TATA",
+  "sharePrice" : 10000,
+  "numberOfShares" : 40
+} ]
