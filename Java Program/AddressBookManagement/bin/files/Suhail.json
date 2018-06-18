@@ -1,0 +1,25 @@
+[ {
+  "firstName" : "Mamta",
+  "lastName" : "Sharma",
+  "address" : "govandi",
+  "city" : "mumbai",
+  "state" : "maharastra",
+  "zipCode" : "456321",
+  "phoneNum" : 9861587432
+}, {
+  "firstName" : "Bijayalakshmi",
+  "lastName" : "senapati",
+  "address" : "vashi",
+  "city" : "mumnai",
+  "state" : "maharastra",
+  "zipCode" : "789654",
+  "phoneNum" : 7377145005
+}, {
+  "firstName" : "Swetalina",
+  "lastName" : "Nayak",
+  "address" : "Bandra",
+  "city" : "Mumbai",
+  "state" : "Maharastra",
+  "zipCode" : "789654",
+  "phoneNum" : 9110697579
+} ]
