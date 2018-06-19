@@ -1,5 +1,13 @@
 package com.bridgelabz.utility;
-
+/******************************************************************************
+ *  
+ *  Purpose:  Property Utility 
+ *
+ *  @author  Swetalina
+ *  @version 1.0
+ *  @since   19-06-2018
+ *
+ ******************************************************************************/
 import java.io.FileReader;
 import java.util.Properties;
 

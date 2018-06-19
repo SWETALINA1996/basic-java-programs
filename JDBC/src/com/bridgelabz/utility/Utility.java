@@ -36,4 +36,13 @@ public class Utility
 		return number;
 	}
 	
+	/**
+	 * @return
+	 */
+	public static float readFloat()
+	{
+		float number = scanner.nextFloat();
+		return number;
+	}
+	
 }
