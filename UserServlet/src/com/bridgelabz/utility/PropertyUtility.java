@@ -3,7 +3,9 @@ package com.bridgelabz.utility;
 import java.io.FileReader;
 import java.util.Properties;
 
-public class PropertyUtility {
+public class PropertyUtility 
+{
+
 	public static String getProperty(String key)
 	{
 		String value = null;

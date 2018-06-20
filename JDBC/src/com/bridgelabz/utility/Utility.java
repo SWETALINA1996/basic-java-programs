@@ -39,10 +39,19 @@ public class Utility
 	/**
 	 * @return
 	 */
+	public static double readDouble()
+	{
+		double number = scanner.nextDouble();
+		return number;
+	}
+	/**
+	 * @return
+	 */
 	public static float readFloat()
 	{
 		float number = scanner.nextFloat();
 		return number;
 	}
+	
 	
 }
