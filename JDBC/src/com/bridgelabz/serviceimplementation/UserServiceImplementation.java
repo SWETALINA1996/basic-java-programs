@@ -33,6 +33,7 @@ public class UserServiceImplementation implements UserService
 		pstmt = EmployeeDao.connection.prepareStatement(queryToLogin);
 		pstmt.setString(1, emailId);
 		pstmt.setDate(2,java.sql.Date.valueOf(password) );
+	
 		rs = pstmt.executeQuery();
 		if(rs.next())
 		{

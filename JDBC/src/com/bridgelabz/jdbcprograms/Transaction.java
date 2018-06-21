@@ -29,9 +29,7 @@ public class Transaction {
 			
 			stmt.executeUpdate(qry1);
 			stmt.executeUpdate(qry2);
-			/*System.out.println("amount debited from virat");
-			System.out.println("amount credited to dhoni");
-			*/
+		
 			con.commit();//end
 			
 			System.out.println("transaction success");

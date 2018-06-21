@@ -18,9 +18,10 @@ public class BatchUpdate
 	public static void main(String[] args) 
 	{
 		final String URL=url+"user="+username+"&password="+password;
-		String query1 ="delete from Account_Records.SBI where Account_No = 98765";
-		String query2 = "insert into Account_Records.SBI values('Sameer' , 852369 , 200000)";
+		String query1 ="delete from Account_Records.SBI where Account_No =  159123";
+		String query2 = "insert into Account_Records.SBI11 values('Sameer' , 852369 , 200000)";
 		String query3 = " delete from Account_Records.SBI where Amount > ?";
+		//String query4 = "create table Emp_Records.studentpract(name varchar(30) , age int(2) , std_id int(3))";
 		Connection con = null;
 		try {
 			Class.forName(driver);
@@ -31,6 +32,7 @@ public class BatchUpdate
 			
 			stmt.addBatch(query1);
 			stmt.addBatch(query2);
+			//stmt.addBatch(query4);
 			pstmt.setInt(1, 100000);
 			pstmt.addBatch();
 			
@@ -38,6 +40,7 @@ public class BatchUpdate
 			int[] records = pstmt.executeBatch();
 			System.out.println(records1[0] +"deleted");
 			System.out.println(records1[1]+ "inserted");
+			//System.out.println(records1[2]+"created");
 			System.out.println(records[0]+ " deleted by amount");
 			
 		}
